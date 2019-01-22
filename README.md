@@ -1,2 +1,2 @@
-# sankebite
+# snakebite
 Python + selenium  + headless
